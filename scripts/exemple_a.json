@@ -1,0 +1,20 @@
+[
+    { "address": "0x70f5863331c7Ca8cbc0B1b5494fDFF5F2ADEEB37", 
+      "earnings": "200000000000000000", 
+      "reasons": "" },
+    {
+      "address": "0xfa6863a6507c94ed5de9276f8a72479924e77a36",
+      "earnings": "1",
+      "reasons": ""},
+    {
+        "address": "0xfa6863a6525c94ed52e9276f8a72479924e77a26",
+        "earnings": "2",
+        "reasons": ""
+    },
+    {
+        "address": "0xfa6863a6507c94ed52e9276f8a72479924e72a26",
+        "earnings": "1",
+        "reasons": ""
+    }
+  ]
+  
